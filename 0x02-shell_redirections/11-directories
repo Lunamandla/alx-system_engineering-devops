@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lRa > 11-directories
+ls -lRa /root
