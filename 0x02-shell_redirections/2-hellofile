@@ -1,2 +1,2 @@
 #!/bin/bash
-File ="/etc/passwd.txt"
+FILE="/etc/passwd.txt"
