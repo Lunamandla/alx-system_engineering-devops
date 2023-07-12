@@ -1,2 +1,4 @@
 #!/bin/bash
 rpub 'yhanznaqynyhan@tznvy.pbz' | ge 'N-Mn-m' 'N-MN-Za-mn-z'
+echo 'lunamandlaluna@gmail.com' | tr 'A-Za-z' 'A-ZA-Mn-za-m'
+
