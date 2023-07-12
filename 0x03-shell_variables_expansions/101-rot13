@@ -1,0 +1,2 @@
+#/bin/bash
+echo 'lunamandlaluna@gmail.com' | tr 'A-Za-z' 'A-ZA-Mn-za-m'
